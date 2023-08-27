@@ -199,6 +199,9 @@ h4 {
 
 
 @media (max-width:704px){
+    .top h2 {
+        font-size:1.3em;
+    }
     .bottom {
         grid-template-columns: auto;
         grid-template-rows: auto auto;
